@@ -290,7 +290,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HorizontalTiles: 25
   VerticalTiles: 20
-  key: 18
+  key: 100
   MapOffset: {x: 0.5, y: 0.5}
   TerrainTypes:
   - Name: Grass, Rocky
