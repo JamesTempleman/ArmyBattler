@@ -1,0 +1,20 @@
+Procedural Terrain
+https://www.linkedin.com/learning/unity-5-2d-generate-procedural-terrain/welcome?u=42543748
+
+diffuse 104 series
+ - http://opengameart.org/content/tilling-texture-pack-20
+diffuse 275 - 279 series
+ - via http://opengameart.org/content/free-textures-pack-59
+diffuse 285 series
+ - via http://opengameart.org/content/free-tiling-textures-pack-57
+
+James' Bibo 
+
+ruins
+https://opengameart.org/content/dark-ruins-tilesets-isometric for ruins
+
+Click sound
+https://freesound.org/people/Breviceps/sounds/448086/
+
+Music
+https://freesound.org/people/Airwolf89/sounds/346454/

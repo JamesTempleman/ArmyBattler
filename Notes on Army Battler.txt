@@ -1,0 +1,15 @@
+Unit Types
+
+Leader
+Troop
+Cavalary
+War Machine
+
+To do list
+
+Figure out:
+	
+	
+	Ranged Combat + spells
+	Combat (How hit boxes work)
+	Movement (How to move within an object)

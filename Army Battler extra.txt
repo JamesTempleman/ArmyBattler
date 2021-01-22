@@ -1,0 +1,25 @@
+scenario 1
+
+map: 10(45x40)
+
+points: 100
+
+Faction 1: Raven Queens Court
+
+	Vampire Count - 35p
+	  5w 6s 6t 50rs 80 ms 1es 10wi 6ma 20mo
+	Dire Wolves x2 - 5p a pop
+	  1w 4s 3t 0rs 60ms 0es 10wi 0ma 40mo
+	Varghoul - 40p 
+	  6w 7s 7t 20rs 70ms 0es 10wi 0ma 25mo
+	Blood Orphan - 15p a pop 
+	  2w 7s 3t 0rs 70ms 0es 10wi 0ma 30mo 
+
+Faction 2: The Sainthood of Swith'mas
+
+	War Priest - 20p
+	  4w 5s 6t 40rs 75ms 1es 8wi 3ma 20 mo
+	Noble Knights Mounted x2 - 30p a pop
+	  4w 6s 6t 50rs 75ms 1es 8wi 0ma 40mo
+	Paladins x2 - 20p a pop
+	  3w 5s 5t 50rs 75ms 1es 8wi 0ma 20mo 

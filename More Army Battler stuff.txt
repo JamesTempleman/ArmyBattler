@@ -1,0 +1,4 @@
+x ^ right
+x\/ left
+y^up
+y\/down
