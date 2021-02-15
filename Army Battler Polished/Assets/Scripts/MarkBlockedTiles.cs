@@ -26,7 +26,8 @@ public class MarkBlockedTiles : MonoBehaviour
 
                     if (terrain.NotWalkable)
                     {
-                        UnityEditor.Handles.DrawWireDisc(worldPos, Vector3.back, radius);
+                        //for when I add blockable and impassable terrain
+                        //UnityEditor.Handles.DrawWireDisc(worldPos, Vector3.back, radius);
                     }
                 }
 

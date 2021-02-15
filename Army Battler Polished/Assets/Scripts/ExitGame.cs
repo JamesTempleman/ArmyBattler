@@ -2,11 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Exit : MonoBehaviour
+public class ExitGame : MonoBehaviour
 {
-    public void exitGame()
+
+    public void QuitTheGame()
     {
-        Debug.Log("Quitting App");
         Application.Quit();
     }
+
 }

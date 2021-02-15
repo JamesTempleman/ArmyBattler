@@ -33,11 +33,11 @@ public class GameManager : MonoBehaviour
     public int p2Points=0;
     
     //These change in combat
-    private Collider2D[] hitEnemies;
-    private Unit[] Combatants;
+    public Collider2D[] hitEnemies;
+    public Unit[] Combatants;
 
     //these change in both combat and movement
-    private GameObject selectedUnit;
+    public GameObject selectedUnit;
     public int selectedUnitSpeed;
     public Vector3 orignalPosition;
 
@@ -231,8 +231,8 @@ public class GameManager : MonoBehaviour
 
     }
 
-    //update
-    void Update()
+        //update
+        void Update()
     {
 
         var clickPosScreen = Input.mousePosition;
